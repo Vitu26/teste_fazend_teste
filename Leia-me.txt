@@ -1,0 +1,25 @@
+Tradução Pt-BR - Projeto em Andamento
+
+Contato: Para dúvidas, sugestões e críticas entre em contato pelo Discord: RandomCarioca#5161
+Obs¹: Existem palavras, nomes de raças, locais e cidades que não serão traduzidos para fins de contexto e fidelidade à lore do game.
+Obs²: Minha prioridade é traduzir os diálogos e objetos, por fim irei focar em livros, notas e diários.
+
+Instalação
+
+-Baixe o arquivo da tradução e extraia normalmente;-Navegue até a pasta de instalação do jogo, 
+  por padrão é C:\Program Files (x86)\Steam\steamapps\common\Skyrim ou C:\Games\Skyrim
+
+-Coloque as duas pastas, Interface e Strings dentro da pasta DATA
+
+-Navegue até a sua pasta My Games em Documentos, por padrão 
+  fica em C:\Users\<NOME DO USÚARIO>\Documentos\My Games\Skyrim
+
+-Abra o Skyrim.ini com bloco de notas,  e veja se o arquivo possui as seguintes linhas, 
+  caso não possua, adicione-as:
+
+[General]
+sLanguage=ENGLISH
+
+
+[Archive]
+bInvalidateOlderFiles=1
